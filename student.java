@@ -35,7 +35,7 @@ class Main {
                     break;
                 case 2:
                     System.out.println("Edit Student");
-                    break;  
+                    break;
                 case 3:
                     System.out.println("Add Course");
                     break; 
